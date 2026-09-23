@@ -1,0 +1,6 @@
+name: servernaya_chast
+description: Локальный сервер Dota AI для Gemini.
+publish_to: none
+
+environment:
+  sdk: ^3.13.3
